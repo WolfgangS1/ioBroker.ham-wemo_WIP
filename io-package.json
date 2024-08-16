@@ -4,8 +4,8 @@
     "version": "3.0.3",
     "news": {
     "3.0.3": {
-        "en": "No Node.js version check",
-        "de": "Keine Node.js Versionskontrolle",
+        "en": "Additional Node.js versions",
+        "de": "Zusätzliche Node.js Versionen",
         "ru": "",
         "pt": "",
         "nl": "",
